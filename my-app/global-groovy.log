@@ -1,0 +1,14 @@
+2021-05-25 12:41:18,258 INFO  [log] =======================test started for get customer by Id from Excel=======================
+2021-05-25 12:41:18,864 INFO  [log] Total row number - 3
+2021-05-25 12:41:18,884 INFO  [log] User1
+2021-05-25 12:41:18,885 INFO  [log] first1
+2021-05-25 12:41:18,885 INFO  [log] last1
+2021-05-25 12:41:18,886 INFO  [log] last1
+2021-05-25 12:41:18,887 INFO  [log] email1
+2021-05-25 12:41:18,887 INFO  [log] pass1
+2021-05-25 12:41:22,778 INFO  [log] User1
+2021-05-25 12:41:22,779 INFO  [log] first1
+2021-05-25 12:41:22,782 INFO  [log] last1
+2021-05-25 12:41:22,787 INFO  [log] last1
+2021-05-25 12:41:22,795 INFO  [log] email1
+2021-05-25 12:41:22,797 INFO  [log] pass1

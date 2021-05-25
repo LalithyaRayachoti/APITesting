@@ -1,0 +1,43 @@
+2021-05-25 12:41:13,936 WARN  [SoapUI] Missing folder [C:\Users\RayachotiLalithya\Desktop\handOnProject\my-app\ext] for external libraries
+2021-05-25 12:41:14,361 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\RayachotiLalithya\soapui-settings.xml]
+2021-05-25 12:41:16,450 INFO  [WsdlProject] Loaded project from [file:/C:/Users/RayachotiLalithya/Desktop/handOnProject/my-app/SoapUi-soapui-project.xml]
+2021-05-25 12:41:17,306 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [SoapUi]
+2021-05-25 12:41:17,310 INFO  [SoapUITestCaseRunner] Running Project [SoapUi], runType = SEQUENTIAL
+2021-05-25 12:41:17,380 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TestCase 1]
+2021-05-25 12:41:17,404 INFO  [SoapUITestCaseRunner] running step [Properties]
+2021-05-25 12:41:17,511 INFO  [SoapUITestCaseRunner] running step [SetData]
+2021-05-25 12:41:18,258 INFO  [log] =======================test started for get customer by Id from Excel=======================
+2021-05-25 12:41:18,864 INFO  [log] Total row number - 3
+2021-05-25 12:41:18,884 INFO  [log] User1
+2021-05-25 12:41:18,885 INFO  [log] first1
+2021-05-25 12:41:18,885 INFO  [log] last1
+2021-05-25 12:41:18,886 INFO  [log] last1
+2021-05-25 12:41:18,887 INFO  [log] email1
+2021-05-25 12:41:18,887 INFO  [log] pass1
+2021-05-25 12:41:22,778 INFO  [log] User1
+2021-05-25 12:41:22,779 INFO  [log] first1
+2021-05-25 12:41:22,782 INFO  [log] last1
+2021-05-25 12:41:22,787 INFO  [log] last1
+2021-05-25 12:41:22,795 INFO  [log] email1
+2021-05-25 12:41:22,797 INFO  [log] pass1
+2021-05-25 12:41:24,630 INFO  [SoapUITestCaseRunner] running step [Creating User]
+2021-05-25 12:41:25,004 INFO  [SoapUITestCaseRunner] Assertion [Invalid HTTP Status Codes] has status VALID
+2021-05-25 12:41:25,008 INFO  [SoapUITestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
+2021-05-25 12:41:25,012 INFO  [SoapUITestCaseRunner] running step [Modifing User]
+2021-05-25 12:41:25,624 INFO  [SoapUITestCaseRunner] Assertion [Invalid HTTP Status Codes] has status VALID
+2021-05-25 12:41:25,625 INFO  [SoapUITestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
+2021-05-25 12:41:25,632 INFO  [SoapUITestCaseRunner] running step [Log In]
+2021-05-25 12:41:26,296 INFO  [SoapUITestCaseRunner] Assertion [Invalid HTTP Status Codes] has status VALID
+2021-05-25 12:41:26,296 INFO  [SoapUITestCaseRunner] Assertion [Not Contains] has status VALID
+2021-05-25 12:41:26,297 INFO  [SoapUITestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
+2021-05-25 12:41:26,299 INFO  [SoapUITestCaseRunner] running step [Log Out]
+2021-05-25 12:41:26,778 INFO  [SoapUITestCaseRunner] Assertion [Invalid HTTP Status Codes] has status VALID
+2021-05-25 12:41:26,790 INFO  [SoapUITestCaseRunner] Assertion [Not Contains] has status VALID
+2021-05-25 12:41:26,796 INFO  [SoapUITestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
+2021-05-25 12:41:26,799 INFO  [SoapUITestCaseRunner] running step [Property Transfer]
+2021-05-25 12:41:26,848 INFO  [SoapUITestCaseRunner] running step [Delete]
+2021-05-25 12:41:27,185 INFO  [SoapUITestCaseRunner] Assertion [Invalid HTTP Status Codes] has status VALID
+2021-05-25 12:41:27,186 INFO  [SoapUITestCaseRunner] Assertion [Not Contains] has status VALID
+2021-05-25 12:41:27,187 INFO  [SoapUITestCaseRunner] Assertion [Valid HTTP Status Codes] has status UNKNOWN
+2021-05-25 12:41:27,197 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TestCase 1], time taken: 9659ms, status: FINISHED
+2021-05-25 12:41:27,201 INFO  [SoapUITestCaseRunner] Project [SoapUi] finished with status [FINISHED] in 9878ms
